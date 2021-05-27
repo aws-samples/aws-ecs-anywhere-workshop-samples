@@ -83,7 +83,6 @@ ECS- Anywhere can solve the below use-cases:
 Here are some articles and documentations that you can refer to:
 
 * [ECS Anywhere announcement blog](https://aws.amazon.com/blogs/containers/introducing-amazon-ecs-anywhere/)
-* [ECS Anywhere GitRepo](ssh://git.amazon.com/pkg/Ecs-anywhere-partner)
 * [Open source ECS Agent Gitrepo](https://github.com/aws/amazon-ecs-agent)
 
 ## Security
