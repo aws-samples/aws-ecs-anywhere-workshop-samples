@@ -1,0 +1,60 @@
+{
+  "requiresCompatibilities": [
+    "EXTERNAL"
+  ],
+  "executionRoleArn": "arn:aws:iam::$AWS_ACCOUNT_ID:role/ecsanywhereTaskExecutionRole",
+  "taskRoleArn": "arn:aws:iam::$AWS_ACCOUNT_ID:role/ecsanywhereTaskRole",
+  "containerDefinitions": [
+  {
+    "essential": true,
+    "image": "public.ecr.aws/aws-observability/aws-for-fluent-bit:latest",
+    "name": "log_router",
+    "firelensConfiguration": {
+      "type": "fluentbit",
+      "options": {
+        "enable-ecs-log-metadata": "false"
+      }
+    },
+    "logConfiguration": {
+      "logDriver": "awslogs",
+      "options": {
+        "awslogs-group": "ecsanywhere-firelens",
+        "awslogs-region": "$AWS_DEFAULT_REGION",
+        "awslogs-create-group": "true",
+        "awslogs-stream-prefix": "firelens"
+      }
+    },
+    "memoryReservation": 50
+    },
+    {
+      "name": "firelens",
+      "image": "nginx",
+      "linuxParameters": {
+        "initProcessEnabled": true
+      },          
+      "memory": 256,
+      "cpu": 256,
+      "essential": true,
+      "portMappings": [
+        {
+          "containerPort": 80,
+          "hostPort": 8080,
+          "protocol": "tcp"
+        }
+      ],
+      "logConfiguration": {
+        "logDriver":"awsfirelens",
+        "options": {
+         "Name": "cloudwatch",
+         "region": "$AWS_DEFAULT_REGION",
+         "log_key": "log",
+         "log_group_name": "/aws/ecsanywhere/$(ecs_cluster)",
+         "auto_create_group": "true",
+         "log_stream_name": "$(ecs_task_id)"
+       }
+     }
+    }
+  ],
+  "networkMode": "bridge",
+  "family": "firelens"
+}

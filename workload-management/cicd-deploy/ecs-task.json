@@ -1,0 +1,25 @@
+{
+  "requiresCompatibilities": [
+    "EXTERNAL"
+  ],
+  "executionRoleArn": "arn:aws:iam::$AWS_ACCOUNT_ID:role/ecsanywhereTaskExecutionRole",
+  "taskRoleArn": "arn:aws:iam::$AWS_ACCOUNT_ID:role/ecsanywhereTaskRole",
+  "containerDefinitions": [
+    {
+      "name": "cicd",
+      "image": "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com/${ECR_REPO}:latest",
+      "memory": 512,
+      "cpu": 512,
+      "essential": true,
+      "portMappings": [
+        {
+          "containerPort": 80,
+          "hostPort": 8080,
+          "protocol": "tcp"
+        }
+      ]      
+    }
+  ],
+  "networkMode": "bridge",
+  "family": "cicd"
+}

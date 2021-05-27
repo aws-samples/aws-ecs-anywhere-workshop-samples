@@ -1,0 +1,8 @@
+.vagrant/
+ssm-activation.json
+.DS_Store
+**/.idea/*
+**/run.sh
+**/.aws-sam
+**/.sam/*
+**/go.sum

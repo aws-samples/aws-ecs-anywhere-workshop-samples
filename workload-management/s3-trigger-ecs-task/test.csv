@@ -1,0 +1,201 @@
+Region,Country,ItemType,SalesChannel,OrderPriority,OrderDate,OrderId,ShipDate,UnitSold,UnitPrice,TotalRevenue,TotalCost,TotalProfit
+Florida,United States,item 3,canalblog.com,1,4/28/2021,1,3/9/2021,2616,320.78,12.74,18.99,87.1
+California,United States,item 1,vistaprint.com,2,11/4/2020,2,5/19/2021,9321,346.55,31.94,72.19,35.49
+New York,United States,item 2,histats.com,3,9/27/2020,3,7/8/2020,9784,264.91,38.43,8.61,29.45
+Arizona,United States,item 1,rambler.ru,4,6/25/2020,4,9/16/2020,7441,20.55,3.29,50.92,60.93
+Florida,United States,item 2,fda.gov,5,1/5/2021,5,6/23/2020,1339,392.69,45.33,51.7,68.21
+Georgia,United States,item 3,ebay.com,6,1/27/2021,6,7/1/2020,2531,471.38,93.88,6.57,27.62
+Florida,United States,item 2,1und1.de,7,4/4/2021,7,5/11/2021,3405,210.67,92.69,38.03,43.81
+Georgia,United States,item 1,nba.com,8,12/5/2020,8,3/24/2021,3081,484.47,17.34,95.86,77.03
+Oklahoma,United States,item 3,alexa.com,9,12/25/2020,9,9/17/2020,398,87.68,16.05,77.27,54.62
+Kansas,United States,item 1,tuttocitta.it,10,5/23/2021,10,4/2/2021,643,90.6,75.0,40.86,3.43
+Tennessee,United States,item 2,washingtonpost.com,11,2/9/2021,11,5/6/2021,3257,343.87,49.85,86.81,25.74
+Pennsylvania,United States,item 2,fc2.com,12,6/8/2020,12,7/24/2020,5733,17.74,36.93,8.98,34.36
+Massachusetts,United States,item 2,yahoo.co.jp,13,5/4/2021,13,8/24/2020,3314,29.23,29.81,25.33,98.75
+Illinois,United States,item 2,google.co.jp,14,6/9/2020,14,8/28/2020,5685,418.87,94.91,54.64,64.36
+Missouri,United States,item 3,sphinn.com,15,2/17/2021,15,3/10/2021,3662,160.48,20.14,99.81,20.71
+Florida,United States,item 3,hp.com,16,4/28/2021,16,9/3/2020,2291,282.87,30.02,30.58,33.04
+Texas,United States,item 2,flavors.me,17,3/9/2021,17,3/23/2021,3014,27.66,33.25,48.42,65.6
+Texas,United States,item 2,weebly.com,18,12/22/2020,18,8/22/2020,182,124.97,19.73,78.44,76.15
+Texas,United States,item 2,scientificamerican.com,19,9/8/2020,19,3/11/2021,7982,441.16,55.73,24.28,52.94
+Iowa,United States,item 1,spotify.com,20,8/14/2020,20,2/18/2021,3033,129.44,91.93,54.76,6.26
+Arkansas,United States,item 2,amazon.co.uk,21,5/5/2021,21,4/12/2021,4139,459.56,54.97,69.64,56.69
+Arizona,United States,item 1,techcrunch.com,22,10/29/2020,22,2/27/2021,6320,105.91,43.3,15.1,54.46
+Indiana,United States,item 1,bigcartel.com,23,12/25/2020,23,2/13/2021,3424,50.73,18.73,50.32,56.76
+Tennessee,United States,item 1,nasa.gov,24,2/20/2021,24,7/23/2020,3994,389.35,8.45,64.55,66.18
+California,United States,item 1,mail.ru,25,9/16/2020,25,6/3/2020,787,274.68,91.92,62.45,95.85
+Texas,United States,item 2,gov.uk,26,11/3/2020,26,4/24/2021,9372,445.12,42.89,14.89,8.27
+Idaho,United States,item 3,issuu.com,27,3/8/2021,27,1/17/2021,8918,350.89,55.2,79.97,92.36
+New York,United States,item 2,usnews.com,28,6/11/2020,28,11/21/2020,9738,240.61,81.61,78.43,55.49
+Kentucky,United States,item 3,hatena.ne.jp,29,2/3/2021,29,5/30/2020,6339,126.65,91.33,20.2,23.7
+Ohio,United States,item 2,plala.or.jp,30,7/9/2020,30,6/30/2020,6874,372.71,16.34,61.91,46.12
+Texas,United States,item 2,sourceforge.net,31,2/2/2021,31,5/7/2021,4105,267.32,33.69,41.94,6.2
+Wisconsin,United States,item 1,accuweather.com,32,3/12/2021,32,6/1/2020,4525,250.12,21.26,58.1,2.93
+Alaska,United States,item 1,sitemeter.com,33,12/5/2020,33,5/18/2021,6794,17.38,96.13,34.45,38.34
+Arizona,United States,item 1,si.edu,34,6/13/2020,34,3/22/2021,2353,434.24,21.67,38.13,26.59
+Pennsylvania,United States,item 2,google.es,35,7/31/2020,35,1/5/2021,4792,207.44,80.32,66.26,59.65
+California,United States,item 3,ustream.tv,36,11/28/2020,36,3/7/2021,2509,241.12,11.66,62.65,78.66
+Missouri,United States,item 3,sakura.ne.jp,37,10/14/2020,37,1/1/2021,2746,99.47,67.67,40.47,44.09
+Texas,United States,item 2,boston.com,38,9/22/2020,38,10/12/2020,9423,308.53,5.57,54.93,87.79
+New York,United States,item 1,seattletimes.com,39,11/29/2020,39,10/1/2020,3571,300.86,84.0,93.16,71.08
+Florida,United States,item 1,nationalgeographic.com,40,3/28/2021,40,5/15/2021,4028,201.03,2.29,92.61,94.61
+Ohio,United States,item 1,clickbank.net,41,9/2/2020,41,7/27/2020,9142,42.02,10.02,28.43,31.78
+California,United States,item 3,vimeo.com,42,8/29/2020,42,1/8/2021,8715,360.44,54.76,27.06,34.96
+Texas,United States,item 3,yahoo.co.jp,43,5/19/2021,43,2/18/2021,496,251.1,72.53,3.04,26.52
+Oklahoma,United States,item 1,cam.ac.uk,44,4/28/2021,44,4/2/2021,3379,472.39,88.78,55.86,48.42
+Oklahoma,United States,item 3,usgs.gov,45,9/3/2020,45,2/4/2021,7663,220.89,76.71,67.68,51.53
+Texas,United States,item 2,techcrunch.com,46,1/12/2021,46,5/5/2021,5393,200.53,76.77,38.52,63.89
+Missouri,United States,item 3,cnet.com,47,12/6/2020,47,11/22/2020,8188,486.13,51.35,60.58,41.32
+Ohio,United States,item 1,state.gov,48,3/2/2021,48,6/7/2020,6183,259.5,95.82,88.82,51.97
+Florida,United States,item 1,elpais.com,49,6/29/2020,49,10/10/2020,9768,184.57,58.03,60.08,60.93
+Kansas,United States,item 3,patch.com,50,12/26/2020,50,7/28/2020,1020,189.47,12.37,66.19,47.49
+Florida,United States,item 2,google.pl,51,6/12/2020,51,11/18/2020,3051,302.85,72.32,58.55,92.46
+Kentucky,United States,item 1,comsenz.com,52,10/2/2020,52,8/25/2020,76,170.81,24.14,22.43,10.04
+West Virginia,United States,item 1,drupal.org,53,12/31/2020,53,1/1/2021,9731,98.04,76.14,57.01,17.17
+California,United States,item 3,weibo.com,54,3/28/2021,54,12/21/2020,5950,340.0,27.99,1.59,52.81
+Virginia,United States,item 3,myspace.com,55,4/8/2021,55,8/30/2020,1823,270.04,60.21,26.81,36.63
+California,United States,item 3,twitter.com,56,1/2/2021,56,3/10/2021,8673,205.61,74.86,40.55,70.07
+Tennessee,United States,item 3,pcworld.com,57,1/22/2021,57,12/14/2020,8239,228.5,47.01,51.64,65.88
+California,United States,item 3,slideshare.net,58,11/13/2020,58,11/16/2020,7511,283.05,66.64,85.62,92.47
+Arizona,United States,item 3,bigcartel.com,59,4/25/2021,59,6/1/2020,750,267.57,87.55,45.46,39.25
+Texas,United States,item 1,ycombinator.com,60,11/30/2020,60,6/12/2020,9361,369.68,4.2,32.47,12.53
+Michigan,United States,item 2,issuu.com,61,7/3/2020,61,6/26/2020,6934,130.13,2.11,26.13,18.85
+Ohio,United States,item 2,umich.edu,62,5/1/2021,62,6/17/2020,4851,226.05,12.0,65.2,13.84
+Texas,United States,item 3,intel.com,63,9/30/2020,63,5/18/2021,6971,302.1,27.88,63.75,13.25
+Louisiana,United States,item 3,cafepress.com,64,5/13/2021,64,12/7/2020,6065,16.86,17.22,53.19,96.37
+Florida,United States,item 2,icio.us,65,12/24/2020,65,12/14/2020,8169,332.52,15.83,16.6,32.95
+Minnesota,United States,item 2,pcworld.com,66,6/10/2020,66,5/28/2020,6997,370.54,93.85,61.3,32.7
+Texas,United States,item 3,hexun.com,67,6/4/2020,67,5/28/2020,5662,38.25,59.81,35.95,18.63
+California,United States,item 3,arizona.edu,68,8/22/2020,68,4/6/2021,9332,329.97,95.0,96.57,98.84
+Ohio,United States,item 1,ning.com,69,8/1/2020,69,7/3/2020,5583,161.24,47.37,77.41,45.95
+Texas,United States,item 1,storify.com,70,5/6/2021,70,11/12/2020,2538,331.03,78.45,94.62,22.37
+Ohio,United States,item 3,clickbank.net,71,7/21/2020,71,1/2/2021,1019,477.97,93.16,42.33,47.36
+Pennsylvania,United States,item 1,icq.com,72,6/30/2020,72,11/28/2020,5080,14.26,46.65,71.69,49.16
+North Carolina,United States,item 3,scribd.com,73,11/3/2020,73,10/19/2020,5792,492.47,59.78,30.31,15.54
+Arizona,United States,item 2,mozilla.org,74,4/29/2021,74,7/28/2020,2388,232.54,66.27,65.84,36.14
+Virginia,United States,item 2,foxnews.com,75,7/28/2020,75,2/12/2021,2569,9.32,18.59,67.33,52.34
+California,United States,item 1,blogtalkradio.com,76,3/2/2021,76,5/22/2021,4337,300.94,45.23,73.57,13.31
+West Virginia,United States,item 3,rediff.com,77,9/19/2020,77,4/13/2021,1073,455.06,51.88,92.55,7.07
+Ohio,United States,item 1,epa.gov,78,6/29/2020,78,9/20/2020,7124,345.7,19.89,93.49,20.44
+Hawaii,United States,item 1,dagondesign.com,79,3/28/2021,79,8/29/2020,8370,124.02,67.08,44.71,87.2
+South Dakota,United States,item 3,1688.com,80,6/21/2020,80,11/7/2020,9099,244.63,64.87,84.64,32.87
+Pennsylvania,United States,item 2,berkeley.edu,81,6/10/2020,81,5/31/2020,2551,229.15,44.04,82.95,54.36
+Oklahoma,United States,item 3,shop-pro.jp,82,6/13/2020,82,6/9/2020,9868,352.62,81.45,66.62,76.13
+Texas,United States,item 2,canalblog.com,83,6/13/2020,83,4/5/2021,5768,155.54,21.16,65.06,86.97
+Virginia,United States,item 3,admin.ch,84,5/28/2020,84,3/27/2021,4628,16.17,82.36,8.53,78.64
+Ohio,United States,item 3,usatoday.com,85,7/30/2020,85,11/7/2020,3890,170.06,36.79,57.37,87.98
+Texas,United States,item 3,networksolutions.com,86,9/29/2020,86,9/11/2020,5651,247.2,42.18,92.58,70.6
+North Carolina,United States,item 3,prweb.com,87,1/4/2021,87,11/9/2020,2337,227.93,71.59,65.3,34.62
+Maryland,United States,item 3,wikipedia.org,88,1/31/2021,88,7/8/2020,8762,273.99,46.84,70.94,59.77
+Florida,United States,item 2,state.gov,89,11/21/2020,89,5/8/2021,8283,112.86,41.18,88.24,97.37
+South Carolina,United States,item 1,homestead.com,90,12/21/2020,90,3/18/2021,3200,80.88,39.97,36.89,26.39
+Virginia,United States,item 1,lycos.com,91,8/15/2020,91,11/13/2020,7534,7.43,18.46,49.31,35.75
+Minnesota,United States,item 2,ameblo.jp,92,6/16/2020,92,1/30/2021,9666,106.96,53.12,4.96,32.23
+Alabama,United States,item 1,yandex.ru,93,2/23/2021,93,10/23/2020,4360,322.01,15.66,69.9,27.65
+Connecticut,United States,item 3,reddit.com,94,5/30/2020,94,3/20/2021,4289,123.69,50.09,74.31,40.88
+New York,United States,item 1,aol.com,95,10/19/2020,95,4/26/2021,7655,391.1,58.59,21.16,31.6
+Illinois,United States,item 3,reverbnation.com,96,7/27/2020,96,8/12/2020,7292,9.17,26.41,30.03,21.37
+Connecticut,United States,item 1,tinypic.com,97,9/4/2020,97,6/21/2020,1269,205.92,60.45,88.26,63.13
+District of Columbia,United States,item 1,csmonitor.com,98,7/15/2020,98,10/15/2020,9390,459.5,91.35,41.03,92.04
+Texas,United States,item 3,sitemeter.com,99,5/28/2020,99,5/2/2021,7077,432.66,82.54,15.13,46.64
+Pennsylvania,United States,item 2,hp.com,100,2/2/2021,100,4/24/2021,325,167.6,47.91,51.85,77.08
+Texas,United States,item 1,networksolutions.com,101,11/20/2020,101,4/14/2021,7555,325.19,30.79,95.47,33.79
+New York,United States,item 2,hugedomains.com,102,1/6/2021,102,8/18/2020,7718,406.45,87.96,43.37,23.96
+Washington,United States,item 2,wunderground.com,103,7/10/2020,103,9/16/2020,4708,438.85,79.75,72.29,7.21
+Texas,United States,item 1,arstechnica.com,104,3/13/2021,104,10/24/2020,8748,399.27,36.94,3.93,46.39
+Ohio,United States,item 1,scientificamerican.com,105,9/22/2020,105,1/14/2021,6242,401.9,28.93,66.56,15.39
+Florida,United States,item 2,cisco.com,106,5/28/2020,106,1/4/2021,2344,414.32,59.59,90.16,82.5
+Nevada,United States,item 3,hp.com,107,3/23/2021,107,3/17/2021,5947,219.01,41.01,37.15,58.37
+Texas,United States,item 2,newsvine.com,108,4/8/2021,108,7/24/2020,6410,175.39,96.03,76.43,61.53
+Tennessee,United States,item 1,nytimes.com,109,7/10/2020,109,4/4/2021,1419,324.91,46.62,27.31,14.48
+Illinois,United States,item 3,indiegogo.com,110,10/4/2020,110,1/8/2021,5274,204.15,69.02,95.47,12.57
+Georgia,United States,item 1,bluehost.com,111,4/17/2021,111,5/8/2021,7254,311.53,92.06,61.28,64.17
+New York,United States,item 1,techcrunch.com,112,12/23/2020,112,1/2/2021,4489,146.64,95.6,59.37,14.84
+Utah,United States,item 2,cbsnews.com,113,10/5/2020,113,10/18/2020,8585,226.86,13.27,66.7,89.94
+Texas,United States,item 2,soundcloud.com,114,12/13/2020,114,5/25/2021,1189,433.12,28.23,79.73,96.8
+Iowa,United States,item 2,bbc.co.uk,115,7/9/2020,115,5/7/2021,6367,476.67,14.87,52.73,94.18
+Connecticut,United States,item 2,symantec.com,116,3/12/2021,116,9/19/2020,4584,443.11,10.47,91.71,13.91
+Indiana,United States,item 2,apple.com,117,6/15/2020,117,2/13/2021,8800,365.54,93.22,14.72,69.41
+Texas,United States,item 1,bbc.co.uk,118,2/12/2021,118,8/18/2020,363,360.71,19.94,8.39,56.15
+Alabama,United States,item 3,a8.net,119,4/11/2021,119,9/27/2020,7552,21.98,74.2,86.54,58.93
+Texas,United States,item 3,w3.org,120,10/16/2020,120,3/26/2021,9168,2.01,67.66,6.25,68.95
+Illinois,United States,item 3,ameblo.jp,121,7/11/2020,121,5/7/2021,1329,69.54,88.56,8.24,5.61
+Texas,United States,item 3,addthis.com,122,11/2/2020,122,9/12/2020,2476,150.5,40.96,70.95,35.16
+Michigan,United States,item 3,google.de,123,10/29/2020,123,3/28/2021,3616,37.66,61.89,59.67,13.34
+Georgia,United States,item 2,privacy.gov.au,124,4/19/2021,124,3/28/2021,8523,318.23,77.72,95.7,97.21
+Idaho,United States,item 1,europa.eu,125,11/20/2020,125,10/3/2020,8183,56.46,13.65,57.06,97.22
+New Jersey,United States,item 1,hibu.com,126,1/7/2021,126,4/2/2021,5146,152.39,24.27,89.41,60.38
+Arkansas,United States,item 2,smugmug.com,127,5/9/2021,127,10/19/2020,4584,142.31,88.35,3.44,53.42
+Louisiana,United States,item 2,craigslist.org,128,11/9/2020,128,8/17/2020,8477,288.3,25.98,21.22,7.05
+New Jersey,United States,item 3,mlb.com,129,10/18/2020,129,6/3/2020,5413,408.06,59.81,65.3,2.17
+Alabama,United States,item 1,jiathis.com,130,3/31/2021,130,4/9/2021,6802,495.43,46.52,33.26,10.92
+Ohio,United States,item 3,google.ru,131,9/14/2020,131,6/8/2020,1545,456.53,8.63,14.88,56.38
+Pennsylvania,United States,item 2,virginia.edu,132,10/27/2020,132,9/1/2020,954,58.67,36.7,41.09,18.96
+Kansas,United States,item 2,dailymotion.com,133,10/19/2020,133,4/9/2021,2920,210.99,39.54,51.97,41.02
+Louisiana,United States,item 2,lycos.com,134,3/8/2021,134,6/8/2020,8620,24.89,97.67,67.43,58.91
+Pennsylvania,United States,item 1,prnewswire.com,135,12/27/2020,135,5/30/2020,235,378.95,92.02,42.5,53.68
+New York,United States,item 1,ask.com,136,9/7/2020,136,6/15/2020,9990,158.28,32.91,28.68,56.91
+Missouri,United States,item 3,shinystat.com,137,9/22/2020,137,4/8/2021,2411,217.61,93.42,58.41,45.16
+New York,United States,item 3,jalbum.net,138,4/13/2021,138,2/1/2021,8751,499.21,69.5,89.51,24.74
+North Carolina,United States,item 3,tripod.com,139,1/15/2021,139,4/16/2021,6724,388.22,74.97,89.96,50.81
+Arizona,United States,item 2,nyu.edu,140,7/24/2020,140,10/27/2020,9747,165.48,88.67,14.74,92.58
+Maryland,United States,item 2,meetup.com,141,4/8/2021,141,5/17/2021,9169,435.49,53.14,51.27,87.32
+Louisiana,United States,item 1,flavors.me,142,2/2/2021,142,10/9/2020,9139,455.61,67.51,98.34,28.77
+Texas,United States,item 2,globo.com,143,7/19/2020,143,9/17/2020,5795,494.81,61.52,51.08,42.19
+Oklahoma,United States,item 1,prlog.org,144,7/5/2020,144,8/15/2020,4918,438.14,92.09,5.64,8.56
+Texas,United States,item 2,reddit.com,145,4/15/2021,145,4/24/2021,9713,463.56,69.27,28.6,78.99
+Ohio,United States,item 3,123-reg.co.uk,146,7/6/2020,146,6/19/2020,214,492.2,48.03,52.28,2.57
+California,United States,item 2,unblog.fr,147,6/28/2020,147,2/5/2021,9478,177.24,34.3,61.91,42.9
+California,United States,item 1,youtube.com,148,3/29/2021,148,2/12/2021,3528,25.88,38.44,27.77,62.37
+South Carolina,United States,item 2,disqus.com,149,2/1/2021,149,9/12/2020,409,444.26,69.47,3.74,28.21
+Florida,United States,item 2,weibo.com,150,1/28/2021,150,9/5/2020,7592,394.54,54.62,89.75,94.98
+Illinois,United States,item 3,virginia.edu,151,1/24/2021,151,4/2/2021,587,152.98,81.65,89.05,62.79
+Georgia,United States,item 2,issuu.com,152,3/2/2021,152,12/6/2020,5032,419.71,60.46,94.48,17.36
+Colorado,United States,item 2,nifty.com,153,6/5/2020,153,12/5/2020,5534,140.18,15.25,34.13,15.92
+Texas,United States,item 2,patch.com,154,7/3/2020,154,10/18/2020,3731,230.02,15.69,32.02,44.38
+Louisiana,United States,item 2,gravatar.com,155,3/2/2021,155,1/1/2021,6068,390.47,29.0,37.45,85.26
+Kentucky,United States,item 2,hexun.com,156,8/24/2020,156,4/14/2021,1386,421.56,4.66,60.55,53.45
+New York,United States,item 2,oracle.com,157,9/17/2020,157,12/15/2020,5473,153.84,26.62,92.4,42.87
+Arizona,United States,item 3,about.com,158,4/1/2021,158,8/24/2020,9329,147.09,65.85,76.14,95.39
+Florida,United States,item 1,archive.org,159,12/2/2020,159,8/20/2020,9884,331.96,64.06,40.97,63.97
+New York,United States,item 3,goo.ne.jp,160,12/27/2020,160,4/10/2021,8990,236.3,76.64,60.89,53.26
+West Virginia,United States,item 3,wp.com,161,6/3/2020,161,8/24/2020,8598,69.08,98.29,12.77,22.41
+Texas,United States,item 1,last.fm,162,11/19/2020,162,7/1/2020,7473,332.35,58.36,79.76,48.68
+Texas,United States,item 1,home.pl,163,5/17/2021,163,10/8/2020,5927,12.7,24.51,52.81,19.73
+Washington,United States,item 2,mac.com,164,10/17/2020,164,5/10/2021,8568,251.25,39.31,46.92,72.19
+New York,United States,item 3,networkadvertising.org,165,2/15/2021,165,10/3/2020,7757,246.48,29.92,11.46,61.7
+Illinois,United States,item 1,utexas.edu,166,4/17/2021,166,7/26/2020,7712,275.57,72.34,83.91,92.0
+Florida,United States,item 3,sfgate.com,167,5/14/2021,167,1/13/2021,2750,40.39,39.71,98.39,63.28
+Michigan,United States,item 3,paginegialle.it,168,8/19/2020,168,10/20/2020,3265,381.12,65.12,21.65,23.86
+Wisconsin,United States,item 1,desdev.cn,169,3/25/2021,169,3/27/2021,1398,456.04,20.67,98.95,27.85
+District of Columbia,United States,item 1,exblog.jp,170,11/27/2020,170,7/10/2020,9610,164.66,94.56,5.52,28.73
+Florida,United States,item 1,geocities.jp,171,2/11/2021,171,11/24/2020,2171,231.93,27.98,34.99,89.75
+Florida,United States,item 2,infoseek.co.jp,172,7/18/2020,172,4/25/2021,851,98.16,26.46,68.74,77.76
+New Jersey,United States,item 3,discovery.com,173,6/22/2020,173,8/25/2020,8401,380.78,74.72,43.52,78.99
+Ohio,United States,item 1,weebly.com,174,11/21/2020,174,5/31/2020,3385,279.17,54.85,93.65,11.22
+Alabama,United States,item 2,usda.gov,175,1/29/2021,175,3/17/2021,9926,156.07,87.88,23.87,79.79
+Missouri,United States,item 3,soundcloud.com,176,4/10/2021,176,6/25/2020,6586,175.8,37.66,90.08,31.14
+Ohio,United States,item 3,altervista.org,177,3/18/2021,177,2/3/2021,4375,43.46,41.21,56.63,43.63
+Illinois,United States,item 3,boston.com,178,2/2/2021,178,6/4/2020,372,268.62,99.93,81.44,31.19
+Texas,United States,item 1,mozilla.com,179,10/7/2020,179,4/28/2021,9456,117.83,51.44,8.68,66.33
+Colorado,United States,item 2,booking.com,180,11/1/2020,180,2/12/2021,2062,100.26,77.56,22.32,65.77
+Virginia,United States,item 1,sciencedaily.com,181,10/10/2020,181,9/24/2020,1371,17.26,53.8,48.49,83.52
+California,United States,item 3,berkeley.edu,182,12/6/2020,182,8/26/2020,8385,385.29,64.08,5.3,55.55
+Florida,United States,item 1,taobao.com,183,1/16/2021,183,10/28/2020,5425,39.99,41.39,2.81,62.7
+Louisiana,United States,item 1,shinystat.com,184,1/20/2021,184,12/12/2020,989,233.49,7.58,2.52,48.47
+Hawaii,United States,item 1,etsy.com,185,1/7/2021,185,9/1/2020,3602,479.75,72.18,17.56,93.03
+Florida,United States,item 1,last.fm,186,10/20/2020,186,1/11/2021,9063,415.76,41.82,60.82,9.7
+Texas,United States,item 3,histats.com,187,4/14/2021,187,10/31/2020,948,216.58,86.95,24.8,39.71
+Kansas,United States,item 1,mozilla.org,188,11/12/2020,188,10/21/2020,7863,209.3,12.63,69.09,90.38
+Texas,United States,item 2,networkadvertising.org,189,1/27/2021,189,2/12/2021,1606,388.81,44.87,14.92,61.76
+Colorado,United States,item 1,a8.net,190,10/8/2020,190,4/10/2021,444,413.84,99.94,88.3,2.21
+Florida,United States,item 1,tiny.cc,191,9/14/2020,191,8/15/2020,4285,387.37,25.46,5.54,47.18
+Texas,United States,item 1,goo.gl,192,4/17/2021,192,2/27/2021,978,301.68,60.48,40.09,47.13
+Texas,United States,item 1,paypal.com,193,6/13/2020,193,3/4/2021,3498,91.91,87.12,39.96,41.65
+Maryland,United States,item 3,wix.com,194,11/6/2020,194,2/25/2021,9327,196.75,74.54,24.98,86.98
+California,United States,item 3,people.com.cn,195,10/26/2020,195,10/27/2020,7675,23.68,3.54,98.38,59.82
+Texas,United States,item 1,about.com,196,5/8/2021,196,5/27/2020,1255,1.91,34.38,16.55,4.72
+New York,United States,item 3,biglobe.ne.jp,197,10/23/2020,197,1/16/2021,9474,388.19,39.59,52.39,64.3
+Pennsylvania,United States,item 2,army.mil,198,12/27/2020,198,6/4/2020,3869,361.3,37.9,95.04,29.83
+California,United States,item 3,skype.com,199,3/26/2021,199,6/9/2020,1663,426.46,25.54,80.34,68.33
+California,United States,item 1,mac.com,200,5/21/2021,200,3/10/2021,2763,20.34,50.72,98.57,17.36

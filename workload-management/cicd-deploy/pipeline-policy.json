@@ -1,0 +1,54 @@
+{
+    "Statement": [
+        {
+            "Action": [
+              "s3:ListBucket"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:s3:::$CODEPIPELINEBUCKET"
+        },
+        {
+            "Action": [
+              "s3:DeleteObject",
+              "s3:GetObject",
+              "s3:PutObject",
+              "s3:PutObjectAcl"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:s3:::$CODEPIPELINEBUCKET/*"
+        },
+        {
+            "Action": [
+                "iam:PassRole"
+            ],
+            "Resource": "*",
+            "Effect": "Allow",
+            "Condition": {
+                "StringEqualsIfExists": {
+                    "iam:PassedToService": [                                        
+                        "ec2.amazonaws.com",
+                        "ecs-tasks.amazonaws.com"
+                    ]
+                }
+            }
+        },
+        {
+            "Action": [
+                "codecommit:*"                
+            ],
+            "Resource": "arn:aws:codecommit:$AWS_DEFAULT_REGION:$AWS_ACCOUNT_ID:$CODE_COMMIT_REPO",
+            "Effect": "Allow"
+        },                
+        {
+            "Action": [
+                "codebuild:*"                
+            ],
+            "Resource": [
+                "arn:aws:codebuild:$AWS_DEFAULT_REGION:$AWS_ACCOUNT_ID:project/Ecsanywhere-build-cicd",
+                "arn:aws:codebuild:$AWS_DEFAULT_REGION:$AWS_ACCOUNT_ID:project/Ecsanywhere-deploy-cicd"
+            ],
+            "Effect": "Allow"
+        }        
+    ],
+    "Version": "2012-10-17"
+}

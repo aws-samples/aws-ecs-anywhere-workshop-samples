@@ -1,0 +1,18 @@
+{
+  "requiresCompatibilities": [
+    "EXTERNAL"
+  ],
+  "executionRoleArn": "arn:aws:iam::$AWS_ACCOUNT_ID:role/ecsanywhereTaskExecutionRole",
+  "taskRoleArn": "arn:aws:iam::$AWS_ACCOUNT_ID:role/ecsanywhereTaskRole",
+  "containerDefinitions": [
+    {
+      "name": "$ECS_TASK_DEFINITION_NAME",
+      "image": "$ECR_REPO:latest",
+      "memory": 512,
+      "cpu": 512,
+      "essential": true
+    }
+  ],
+  "networkMode": "bridge",
+  "family": "$ECS_TASK_DEFINITION_NAME"
+}
