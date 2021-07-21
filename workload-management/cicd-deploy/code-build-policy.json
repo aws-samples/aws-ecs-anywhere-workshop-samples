@@ -47,6 +47,7 @@
          "Effect":"Allow",
          "Action":[
             "logs:CreateLogStream",
+            "logs:CreateLogGroup",
             "logs:PutLogEvents"     
          ],
          "Resource":"*"
