@@ -7,9 +7,13 @@ COPY go.mod .
 
 RUN export GOPROXY="direct"
 RUN go env -w GOPRIVATE=*
-RUN go mod download
 
 COPY . .
+
+RUN go mod download \
+    && go mod download github.com/aws/aws-lambda-go
+
+
 RUN go build -o ./out/go-sample-app main.go
 
 FROM public.ecr.aws/bitnami/golang
