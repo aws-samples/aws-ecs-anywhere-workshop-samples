@@ -10,6 +10,11 @@ RUN go env -w GOPRIVATE=*
 RUN go mod download
 
 COPY . .
+
+RUN go mod download github.com/aws/aws-sdk-go \
+    && go mod download github.com/google/uuid \
+    && go mod download github.com/jmespath/go-jmespath
+
 RUN go build -o ./out/go-sample-app main.go
 
 FROM public.ecr.aws/bitnami/golang
