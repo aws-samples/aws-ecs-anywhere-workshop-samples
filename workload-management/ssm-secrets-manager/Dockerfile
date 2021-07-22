@@ -9,7 +9,7 @@ RUN export GOPROXY="direct"
 RUN go env -w GOPRIVATE=*
 RUN go mod download
 
-COPY ../.. .
+COPY . .
 RUN go build -o ./out/ssm-secrets-manager main.go
 
 FROM public.ecr.aws/bitnami/golang
