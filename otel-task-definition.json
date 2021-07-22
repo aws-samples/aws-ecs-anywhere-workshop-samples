@@ -102,6 +102,9 @@
         },
         "image": "public.ecr.aws/highspot/alpine/socat:latest",
         "essential": false,
+        "links": [
+          "aws-otel-collector"
+        ],        
         "name": "aoc-statsd-emitter",
         "entryPoint": [
           "/bin/sh",
