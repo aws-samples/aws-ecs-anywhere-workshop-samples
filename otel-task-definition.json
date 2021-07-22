@@ -83,6 +83,13 @@
         "image": "public.ecr.aws/nginx/nginx:latest",
         "name": "nginx",
         "essential": false,
+        "portMappings": [
+          {
+            "containerPort": 80,
+            "hostPort": 8080,
+            "protocol": "tcp"
+          }
+        ],        
         "dependsOn": [
           {
             "containerName": "aws-otel-collector",
