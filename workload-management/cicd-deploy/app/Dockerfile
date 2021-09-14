@@ -1,6 +1,3 @@
-FROM public.ecr.aws/amazonlinux/amazonlinux:2
-
-RUN yum -y install httpd
-COPY index.html /var/www/html/index.html
-CMD ["/usr/sbin/httpd","-D","FOREGROUND"]
+FROM httpd:2.4
+COPY index.html/ /usr/local/apache2/htdocs/
 EXPOSE 80
