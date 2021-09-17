@@ -28,7 +28,7 @@
     },
     {
       "name": "firelens",
-      "image": "nginx",
+      "image": "public.ecr.aws/nginx/nginx:latest",
       "linuxParameters": {
         "initProcessEnabled": true
       },          
