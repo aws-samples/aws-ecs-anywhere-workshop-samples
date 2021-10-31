@@ -12,7 +12,8 @@ export ECR_REPO=cicdecsanysamplerepo
 aws ecr create-repository --repository-name $ECR_REPO
 
 # S3 Bucket
-aws s3api create-bucket --bucket $CODEPIPELINEBUCKET --region $AWS_DEFAULT_REGION
+aws s3api create-bucket --bucket $CODEPIPELINEBUCKET --create-bucket-configuration LocationConstraint=$AWS_DEFAULT_REGION
+
 
 # CodeCommit
 aws codecommit create-repository --repository-name $CODE_COMMIT_REPO
