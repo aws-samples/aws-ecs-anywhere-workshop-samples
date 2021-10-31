@@ -25,7 +25,7 @@
         "logDriver": "awslogs",
         "options": {
             "awslogs-group": "ecsanywhere-logs",
-            "awslogs-region": "us-east-1",
+            "awslogs-region": "$AWS_REGION",
             "awslogs-stream-prefix": "logs"
         }
       }
